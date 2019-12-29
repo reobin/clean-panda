@@ -1,5 +1,5 @@
 # Clean panda
-> An Alred adaptation of panda syntax theme
+An Alred adaptation of panda syntax theme
 
 <img src="https://raw.githubusercontent.com/reobin/clean-panda/master/screenshot.png" alt="screenshot" />
 
